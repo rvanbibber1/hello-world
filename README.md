@@ -1,2 +1,2 @@
 # hello-world
-Baby's first repository. How delectable
+Baby's first repository. How delectable.
